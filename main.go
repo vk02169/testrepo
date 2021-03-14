@@ -6,4 +6,6 @@ func main() {
 	fmt.Println("hello")
 	fmt.Println("this")
 	anything()
+	typedef()
+	printVars()
 }
